@@ -22,8 +22,10 @@
 - 💻 Java | React | SQL | Python
 - 🚀 Building Real-world Projects
 - 🏆 Hackathon Enthusiast
-- 📚 Solving LeetCode Daily
-- 🎯 Goal: Software Engineer @ Top Product Company
+- ⚔️ Competitive Programmer
+- 📚 Solving LeetCode Problems
+- 💡 Passionate about Data Structures & Algorithms
+- 🎯 Goal: Software Engineer
 
 ---
 
