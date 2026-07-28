@@ -3,14 +3,12 @@
 <!-- ========================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Prajwal+Angadi;Computer+Science+Student;Java+Developer;Full+Stack+Developer;AI+%7C+Open+Source+Enthusiast;Hackathon+Lover+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Java+Developer;Full+Stack+Developer;AI+%7C+Open+Source+Enthusiast;Hackathon+Lover+🚀" />
 </h1>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=230&section=header&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=6,11,20,24,30&text=Prajwal%20Angadi&fontSize=60&fontColor=ffffff&animation=twinkling&stroke=00F5FF&strokeWidth=1&desc=Java%20Developer%20%7C%20Competitive%20Programmer%20%7C%20Full%20Stack%20Developer&descAlignY=70"/>
+</p>
 
 ---
 
@@ -46,7 +44,6 @@
 📚 Data Structures & Algorithms
 ⚡ Java Development
 🤖 Artificial Intelligence
-
 ```
 
 <!-- <p># 🔥 GitHub Streak</p> -->
@@ -64,7 +61,7 @@
 <p align="center">
 
 <a href="https://linkedin.com/in/prajwal-angadi-45ps/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <!-- <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
@@ -76,15 +73,15 @@
 </a> 
 
 <a href="https://www.reddit.com/user/Prajwal_S_Angadi/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=reddit" height="55" />
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
 
 <a href="https://discordapp.com/users/prajwal_s_45" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" height="55" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="mailto:angadiprajwal88@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="55" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <!-- <a href="https://YOUR_PORTFOLIO_WEBSITE.com" target="_blank">
