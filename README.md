@@ -63,20 +63,32 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/prajwal-angadi-45ps/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://linkedin.com/in/prajwal-angadi-45ps/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+</a>
+
+<!-- <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="55" />
+</a> -->
+
+<a href="https://leetcode.com/Prajwal_S_A/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a> 
+
+<a href="https://www.reddit.com/user/Prajwal_S_Angadi/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=reddit" height="55" />
+</a>
+
+<a href="https://discordapp.com/users/prajwal_s_45" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" height="55" />
 </a>
 
 <a href="mailto:angadiprajwal88@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="55" />
 </a>
 
-<!-- <a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
-</a> -->
-
-<!-- <a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+<!-- <a href="https://YOUR_PORTFOLIO_WEBSITE.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a> -->
 
 </p>
