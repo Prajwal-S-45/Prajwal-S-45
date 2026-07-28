@@ -20,7 +20,6 @@
 
 ### 👨‍💻 Computer Science Engineering Student
 
-- 🎓 REVA University
 - 🌱 Learning Full Stack Development & AI
 - 💻 Java | React | SQL | Python
 - 🚀 Building Real-world Projects
@@ -34,7 +33,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,mysql,git,github,vscode,figma,bootstrap" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,mysql,git,github,mongodb" />
 
 </p>
 
@@ -47,7 +46,6 @@
 📚 Data Structures & Algorithms
 ⚡ Java Development
 🤖 Artificial Intelligence
-☁️ Cloud Computing
 ```
 
 ---
@@ -56,7 +54,7 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -121,39 +119,23 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/prajwal-angadi-45ps/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:angadiprajwal88@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<!-- <a href="https://leetcode.com/YOUR_USERNAME">
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
-</a>
+</a> -->
 
-<a href="https://github.com/YOUR_USERNAME">
+<!-- <a href="https://github.com/YOUR_USERNAME">
 <img src="https://skillicons.dev/icons?i=github"/>
-</a>
+</a> -->
 
 </p>
-
----
-
-# ☕ Coding Activity
-
-```text
-Java          ████████████████████ 90%
-
-React         ███████████████░░░░░ 75%
-
-Python        ██████████████░░░░░░ 70%
-
-SQL           ████████████████░░░░ 80%
-
-AI/ML         ██████████░░░░░░░░░░ 50%
-```
 
 ---
 
@@ -171,11 +153,11 @@ AI/ML         ██████████░░░░░░░░░░ 50%
 
 ### ⭐ Thanks for visiting!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
 <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/> -->
 
 </div>
 
