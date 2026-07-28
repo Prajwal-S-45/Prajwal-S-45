@@ -49,13 +49,13 @@
 
 ```
 
-# 🔥 GitHub Streak
+<!-- <p># 🔥 GitHub Streak</p> -->
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p> -->
 
 ---
 
