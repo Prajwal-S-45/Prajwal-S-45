@@ -46,21 +46,8 @@
 📚 Data Structures & Algorithms
 ⚡ Java Development
 🤖 Artificial Intelligence
+
 ```
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -69,49 +56,6 @@
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&column=4"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🌐 Portfolio Website | Personal Portfolio using React |
-| 📈 Stock Market Dashboard | Real-time Market Analysis |
-| 🗄️ Insurance Management System | DBMS Project |
-| 🤖 AI Chatbot | OpenAI Powered Assistant |
-| 📊 Power BI Dashboard | Data Visualization |
-| 💻 LeetCode Solutions | Java DSA Repository |
 
 ---
 
@@ -161,4 +105,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00F7FF&height=120&section=footer"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00F7FF&height=120&section=footer"/> -->
