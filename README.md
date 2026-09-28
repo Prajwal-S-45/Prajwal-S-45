@@ -3,18 +3,18 @@
 <!-- ========================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Java+Developer;Full+Stack+%26+AI+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Java+Developer;Full+Stack+Developer;AI+%2B+Open+Source+Enthusiast;Hackathon+Lover+%F0%9F%9A%80" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=6,11,20,24,30&text=Prajwal%20Angadi&fontSize=60&fontColor=ffffff&animation=twinkling&stroke=000000" alt="Prajwal Angadi" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=6,11,20,24,30&text=Prajwal%20Angadi&fontSize=60&fontColor=ffffff&animation=twinkling&stroke=00F7FF&strokeWidth=1&desc=Java%20Developer%20%7C%20Competitive%20Programmer%20%7C%20Full%20Stack%20Developer&descAlignY=70" />
 </p>
 
 ---
 
 # 🌌 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZ0NjV6Z2Fyd2Z4Mjl0NGp3dTFzM3F4YjFwcnA5cDdjYjdrYjVjMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378khQxt68syiWJy/giphy.gif" alt="Coding animation" />
+<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZ0NjV6Z2Fyd2Z4Mjl0NGp3dTFzM3F4YjFwcnA5cDdjYjdrYjVjMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378khQxt68syiWJy/giphy.gif" />
 
 ### 👨‍💻 Computer Science Engineering Student
 
