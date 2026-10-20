@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="./terminal-card.svg" width="100%" alt="Terminal-style ASCII portrait card"/>
+      <img src="./terminal-card.svg" width="100%" alt="Terminal-style neon-green portrait card"/>
     </td>
     <td width="50%" valign="top">
       <img src="./info-card.svg" width="100%" alt="Prajwal's developer information terminal card"/>
@@ -16,23 +16,17 @@
 
 <table>
   <tr>
-    <td width="34%" valign="top" align="center">
-      <img src="./assets/prajwal-neon-portrait.png" width="100%" alt="Neon green portrait"/>
-      <br/><br/>
-      <strong>Prajwal S Angadi</strong><br/>
-      <sub>Computer Science Engineering</sub><br/><br/>
-      <a href="https://github.com/Prajwal-S-45"><img src="https://img.shields.io/badge/Follow-GitHub-00C853?style=flat-square&logo=github&logoColor=white" alt="GitHub profile"/></a>
+    <td width="36%" valign="top">
+      <img src="./assets/prajwal-neon-portrait.png" width="100%" alt="Prajwal's neon-green portrait"/>
     </td>
-    <td width="66%" valign="top">
-      I'm a Computer Science Engineering undergraduate at <strong>REVA University, Bengaluru</strong>, graduating in 2027. I enjoy building useful software, exploring AI and computer vision, and turning data into clear, actionable insights.
-      <br/><br/>
+    <td width="64%" valign="top">
+      I'm a Computer Science Engineering undergraduate at **REVA University, Bengaluru**, graduating in 2027. I enjoy building useful software, exploring AI and computer vision, and turning data into clear, actionable insights.
+
       - 🎓 B.Tech in Computer Science Engineering — REVA University
-      - 📊 CGPA: <strong>8.91</strong>
+      - 📊 CGPA: **8.91**
       - 🧠 Interests: full-stack development, AI/ML, computer vision, data analytics
       - 🏆 Top 6 finalist — Code Quest, REVA University
       - 🌱 Focused on hands-on projects and continuous learning
-      <br/>
-      <strong>Currently building:</strong> practical web applications and data-driven systems.
     </td>
   </tr>
 </table>
