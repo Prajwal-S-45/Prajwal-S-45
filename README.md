@@ -14,22 +14,37 @@
 
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="36%" valign="top">
-      <img src="./assets/prajwal-neon-portrait.png" width="100%" alt="Prajwal's neon-green portrait"/>
-    </td>
-    <td width="64%" valign="top">
-      I'm a Computer Science Engineering undergraduate at **REVA University, Bengaluru**, graduating in 2027. I enjoy building useful software, exploring AI and computer vision, and turning data into clear, actionable insights.
+<h2 align="center">🚀 About Me</h2>
 
-      - 🎓 B.Tech in Computer Science Engineering — REVA University
-      - 📊 CGPA: **8.91**
-      - 🧠 Interests: full-stack development, AI/ML, computer vision, data analytics
-      - 🏆 Top 6 finalist — Code Quest, REVA University
-      - 🌱 Focused on hands-on projects and continuous learning
-    </td>
-  </tr>
+<table width="100%" border="0">
+<tr>
+<td width="40%" valign="top" style="border: none; background: none;">
+
+### 👨‍💻 Who am I?
+
+* 🎓 **B.Tech in Data Science (2023–2027)** • Aditya College of Engineering and Technology
+* 💻 **Full Stack & Backend Developer** passionate about building scalable applications and AI-powered solutions.
+* 🚀 Currently building production-ready software using modern backend technologies and cloud infrastructure.
+* 🌱 Currently learning **System Design, AWS, Kubernetes, AI Agents, LLM Engineering, and High Performance Backend Systems.**
+* 📹 Tech Content Creator sharing development resources and programming knowledge.
+
+<blockquote>
+  <p align="left">
+    <i>"I don't just write code. I build scalable solutions that solve real-world problems."</i>
+  </p>
+</blockquote>
+
+</td>
+
+<td width="60%" align="center" valign="middle" style="border: none; background: none;">
+
+<img src="./assets/prajwal-neon-portrait.png" width="80%" height="10%" alt="Coding Animation"/>
+
+</td>
+</tr>
 </table>
+
+<hr style="border: 1px solid #30363d; background-color: #30363d; height: 1px; margin: 20px 0;" />
 
 ## 🧭 Quick Navigation
 
