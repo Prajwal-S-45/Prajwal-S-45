@@ -25,35 +25,36 @@
 <!-- ABOUT & MEDIA SECTION -->
 <!-- ================= ABOUT ME ================= -->
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
-<table width="100%" border="0">
-<tr>
-<td width="40%" valign="top" style="border: none; background: none;">
+<img align="right" width="340" src="./assets/boy_tech_logos_orbit.gif" width="100%" height="auto" alt="Coding Animation"/>
 
-### 👨‍💻 Who am I?
+🎓 **B.Tech in Computer Science (2023–2027)** • Reva University
 
-* 🎓 **B.Tech in Computer Science (2023–2027)** • Reva University
-* 💻 **Full Stack & Backend Developer** passionate about building scalable applications and AI-powered solutions.
-* 🚀 Currently building production-ready software using modern backend technologies and cloud infrastructure.
-* 🌱 Currently learning **System Design, AWS, Kubernetes, AI Agents, LLM Engineering, and High Performance Backend Systems.**
-* 📹 Tech Content Creator sharing development resources and programming knowledge.
+💡 Passionate about building production-ready software and AI-powered applications
 
+🧠 I enjoy solving challenging algorithmic problems using Java, designing scalable backend systems, and building modern AI-powered applications.
+
+💻 **Full Stack & Backend Developer** passionate about building scalable applications and AI-powered solutions.
+
+🌱 Currently exploring
+-   Advanced Java
+-   Data Structures & Algorithms
+-   Large Language Models (LLMs)
+-   Retrieval-Augmented Generation (RAG)
+-   Multi-Agent AI Systems
+-   Cloud AI Platforms
+  
+🏆 Hackathon Participant | Project Builder | Problem Solver
+
+💻 Solving Data Structures & Algorithms on **LeetCode**
+
+🎯 Goal: Become a **Software Engineer** at a top Big Tech Company.
 <blockquote>
   <p align="left">
     <i>"I don't just write code. I build scalable solutions that solve real-world problems."</i>
   </p>
 </blockquote>
-
-</td>
-
-<td width="60%" align="center" valign="middle" style="border: none; background: none;">
-
-<img src="./assets/boy_tech_logos_orbit.gif" width="100%" height="auto" alt="Coding Animation"/>
-
-</td>
-</tr>
-</table>
 
 <hr style="border: 1px solid #30363d; background-color: #30363d; height: 1px; margin: 20px 0;" />
 
@@ -61,26 +62,20 @@
 <h2 align="center">🧰 Technical Skills</h2>
 <table>
   <tr>
-    <td width="50%" valign="top">
       <h3>💻 Languages</h3>
-      <img src="https://skillicons.dev/icons?i=java,python,html,css,ts&theme=dark" alt="Java, Python, HTML, CSS, TypeScript"/>
+      <img src="https://skillicons.dev/icons?i=java,python&theme=dark" alt="Java, Python"/>
       <h3>🎨 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite, Tailwind CSS"/>
+      <img src="https://skillicons.dev/icons?i=react,html,css,ts,tailwind&theme=dark" alt="React, HTML, CSS, TypeScript, Tailwind CSS"/>
       <h3>⚙️ Backend & APIs</h3>
       <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express"/>
-      <p>REST APIs · JWT authentication · Socket.IO</p>
       <h3>🗄️ Databases</h3>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" alt="MySQL, MongoDB, PostgreSQL"/>
-    </td>
-    <td width="50%" valign="top">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase&theme=dark" alt="MySQL, MongoDB, PostgreSQL, Supabase"/>
       <h3>📊 Data & Business Intelligence</h3>
-      <p><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/></p>
-      <p>DAX · Power Query · Dashboard Design · Data Analysis</p>
+      <p><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI"/> 
       <h3>🤖 AI & Computer Vision</h3>
-      <p>Python · TensorFlow · Image Analysis · Satellite Imagery · AI-powered applications</p>
+      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark">
       <h3>🛠️ Tools & Platforms</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,vscode&theme=dark" alt="Git, GitHub, Docker, Google Cloud, VS Code"/>
-    </td>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,vercel&theme=dark" alt="Git, GitHub, Docker, Google Cloud, Vercel"/>
   </tr>
 </table>
 
@@ -171,6 +166,8 @@
 
 ---
 
+<img src="assets/working.gif" alt="working-image">
+
 <!-- ================= Lets Connect ================= -->
 <h2 align="center">🤝 Let's Connect</h2>
 
@@ -178,6 +175,7 @@
   <a href="mailto:angadiprajwal88@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-00C853?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/prajwal-angadi-45ps/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Prajwal-S-45"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href=""></a>
 </p>
 
 <p align="center">
