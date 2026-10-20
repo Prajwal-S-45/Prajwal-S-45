@@ -12,7 +12,8 @@
 
 ---
 
-## 👨‍💻 About Me
+<!-- ABOUT & MEDIA SECTION -->
+<!-- ================= ABOUT ME ================= -->
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -38,25 +39,13 @@
 
 <td width="60%" align="center" valign="middle" style="border: none; background: none;">
 
-<img src="./assets/prajwal-neon-portrait.png" width="80%" height="10%" alt="Coding Animation"/>
+<img src="./assets/boy_tech_logos_orbit.gif" width="100%" height="auto" alt="Coding Animation"/>
 
 </td>
 </tr>
 </table>
 
 <hr style="border: 1px solid #30363d; background-color: #30363d; height: 1px; margin: 20px 0;" />
-
-## 🧭 Quick Navigation
-
-<p align="center">
-  <a href="#-technical-skills">Technical Skills</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-achievements">Achievements</a> •
-  <a href="#-github-activity">GitHub Activity</a> •
-  <a href="#-lets-connect">Contact</a>
-</p>
-
----
 
 ## 🧰 Technical Skills
 
