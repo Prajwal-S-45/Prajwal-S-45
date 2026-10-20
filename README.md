@@ -1,13 +1,14 @@
-<!-- PROFILE HEADER -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:07090D,45:00FF66,100:07090D&text=Prajwal%20S%20Angadi&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=FULL%20STACK%20DEVELOPMENT%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20DATA%20ANALYTICS&descAlignY=60&descSize=13" alt="Prajwal S Angadi profile banner"/>
-  <p>
-    <a href="mailto:angadiprajwal88@gmail.com"><img src="https://img.shields.io/badge/EMAIL-00C853?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://www.linkedin.com/in/prajwal-angadi-45ps/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://github.com/Prajwal-S-45"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  </p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=700&color=00FF66&center=true&vCenter=true&width=760&lines=Computer+Science+Engineering+Undergraduate;Full-Stack+Application+Developer;AI%2FML+and+Computer+Vision+Enthusiast;Data+Analytics+and+Dashboard+Developer" alt="Animated introduction"/>
-</div>
+<!-- TERMINAL PROFILE CARDS -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./terminal-card.svg" width="100%" alt="Terminal-style ASCII portrait card"/>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./info-card.svg" width="100%" alt="Prajwal's developer information terminal card"/>
+    </td>
+  </tr>
+</table>
 
 ---
 

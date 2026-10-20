@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="650" viewBox="0 0 680 650">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111923"/><stop offset="1" stop-color="#080b10"/></linearGradient></defs>
+<rect x="1" y="1" width="678" height="648" rx="18" fill="url(#bg)" stroke="#303844" stroke-width="2"/>
+<path d="M1 44H679" stroke="#303844" stroke-width="2"/>
+<circle cx="22" cy="22" r="6" fill="#ff5f57"/><circle cx="42" cy="22" r="6" fill="#febc2e"/><circle cx="62" cy="22" r="6" fill="#28c840"/>
+<text x="340" y="27" text-anchor="middle" fill="#7f9dbd" font-family="monospace" font-size="11">prajwal@github: ~/portrait.sh</text>
+<text x="20" y="70" fill="#50d890" font-family="monospace" font-size="13">$ ./portrait.sh --ascii</text>
+<g fill="#a8d4ff" font-family="monospace" font-size="11" xml:space="preserve"><text x="22" y="104" class="ascii">                          =#*%%#%+*#+#*+*-+**                         </text>
+<text x="22" y="117" class="ascii">                        %#@%+#++#+#*=*+#%#@#**=                       </text>
+<text x="22" y="130" class="ascii">                      ###=*++#+**+#*%@#%*=*=*#+#+                     </text>
+<text x="22" y="143" class="ascii">                    ++-***%**#+%#%%+*+-*+#%+#**%#%%                   </text>
+<text x="22" y="156" class="ascii">                   =###%**#*%#*#==+=%##%+##*%*#*-+=+                  </text>
+<text x="22" y="169" class="ascii">                  %#%**#*#*+*=+#*@%#%+*#*%+++-**#@###                 </text>
+<text x="22" y="182" class="ascii">                 #++#+#*=*+*@#@#*#=*#+#+=*+%%%@***=#**                </text>
+<text x="22" y="195" class="ascii">                +#+**=##%@##*=*+*#+#++#*@@#%++*=#*+#+*#               </text>
+<text x="22" y="208" class="ascii">                *#+%%#%+++-*+*%+#**%#%%+*==*+##+#+#%#@#               </text>
+<text x="22" y="221" class="ascii">               *%#*#==+=###%+##*@#**-+++%*%#+#*#%*#+-+=*              </text>
+<text x="22" y="234" class="ascii">               =*=+#*@%#%+*#*%*++-**#@###+#**%+++=**#@#%              </text>
+<text x="22" y="247" class="ascii">               *@#@#+#+*#+#+=*+#%#@***=#**#=+*+%%%@***+#              </text>
+<text x="22" y="260" class="ascii">              ##=:=:=+-=--+=*#=+-:=:==-=:-+=#*++:--:+--*=             </text>
+<text x="22" y="273" class="ascii">              -*-=+-==-*+**--::=-++-+-=*+*+--.-=-+=-+-+%#             </text>
+<text x="22" y="286" class="ascii">              #%-=+=*+==.-:-*=++-+=+*==-.-:=+=*=-+=+*=+==             </text>
+<text x="22" y="299" class="ascii">              *#=+=:-.-=.=::: :==+--:.==:=::. :=++:-::=*%             </text>
+<text x="22" y="312" class="ascii">              #+:=:+*+#=.: :: :::--**+*-.. :....---*+**+#             </text>
+<text x="22" y="325" class="ascii">               =*#=+-:=::: .  :=#*=+:-=::. . .:+#++=:=--              </text>
+<text x="22" y="338" class="ascii">               --::=-++-+-=*+*+--. . +=-+-+*+*=--.-=-+-=              </text>
+<text x="22" y="351" class="ascii">                +=++-+=+*==-.-:-*=-: +=+*=+:.-:=+=*==+=               </text>
+<text x="22" y="364" class="ascii">                +-++=*---.==+#=+=--.:+:-::==**=+==+=+=:               </text>
+<text x="22" y="377" class="ascii">                 -=::--**+*===-+==.  --*+**-=--+-=-.--                </text>
+<text x="22" y="390" class="ascii">                  +=#*=+:-=-+=-=:=::=+++:---+---:+++#                 </text>
+<text x="22" y="403" class="ascii">                   :=::=-+=-+-+*+*. ..-=-+--=-**+*--                  </text>
+<text x="22" y="416" class="ascii">                    *=+=-+=+*=+:.- ::=+==+=**==::-:                   </text>
+<text x="22" y="429" class="ascii">                     -+=++:-:.==+*=+==*=+=:-.:+=*+                    </text>
+<text x="22" y="442" class="ascii">                       .---*+-- :. -... . =*+*+-                      </text>
+<text x="22" y="455" class="ascii">                         +++:.. :  . :::=:+=:=                        </text>
+<text x="22" y="468" class="ascii">                            -+--=-**+*---.=                           </text>
+<text x="22" y="481" class="ascii">                                  =::                                 </text>
+<text x="22" y="494" class="ascii">                      =+=-*=++:-.:+=*+=+-=+=*=:-.                     </text>
+<text x="22" y="507" class="ascii">                    ==-+===.--=*+*+-+-=+-=-.--+*+*=                   </text>
+<text x="22" y="520" class="ascii">                  =-+--=:=++#++=:=-=+:--:+=*#=+-:=-==                 </text>
+<text x="22" y="533" class="ascii">                -+--=-**+*---.===+-==-****--::=-==:===#               </text>
+<text x="22" y="546" class="ascii">               =-+=**==::-:++=+-=+=#+==.:--+==+-+++#==-.              </text>
+<text x="22" y="559" class="ascii">             -*=++:-::+=*+=+-=*=+=:-.-+=*+=+-++=*-:-.==+*=            </text>
+<text x="22" y="572" class="ascii">           +===.--=*+*+-+-=+-=-.--+*+*=-+-++-=::--**+*===-+=          </text>
+<text x="22" y="585" class="ascii">         --=:=++#++=:=--+:--:++*#=+-:=-==:=:-+=#*=+--=-+=:=:=+        </text></g>
+<path d="M20 610H660" stroke="#273340"/>
+<text x="20" y="632" fill="#77a6d7" font-family="monospace" font-size="11">prajwal@github:~$</text><text x="155" y="632" fill="#dce7f5" font-family="monospace" font-size="11">echo "Build. Learn. Repeat."</text>
+</svg>
