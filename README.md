@@ -1,3 +1,11 @@
+<div align="center">
+  <img
+    src="assets/portrait.svg"
+    width="280"
+    alt="Animated dot-matrix portrait"
+  />
+</div>
+
 <!-- TERMINAL PROFILE CARDS -->
 <table>
   <tr>
