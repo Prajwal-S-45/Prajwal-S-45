@@ -13,6 +13,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=00FF66&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;Full-Stack+Application+Developer;AI%2FML+%26+Computer+Vision+Enthusiast;Data+Analytics+%26+Power+BI" alt="Animated typing introduction"/>
 </p>
 
+<p align="center">
+  <img src="./assets/prajwal-neon-portrait.png" alt="Prajwal's neon-green portrait" width="280"/>
+</p>
+
 ## 👋 About Me
 
 I'm a Computer Science Engineering undergraduate at **REVA University**, Bengaluru, graduating in **2027**. I enjoy building full-stack applications, applying AI and computer vision to real-world problems, and turning data into useful insights.
