@@ -6,6 +6,8 @@
   />
 </div>
 
+# Hi there 👋, I'm Prajwal Angadi
+
 <!-- TERMINAL PROFILE CARDS -->
 <table>
   <tr>
@@ -31,7 +33,7 @@
 
 ### 👨‍💻 Who am I?
 
-* 🎓 **B.Tech in Data Science (2023–2027)** • Aditya College of Engineering and Technology
+* 🎓 **B.Tech in Computer Science (2023–2027)** • Reva University
 * 💻 **Full Stack & Backend Developer** passionate about building scalable applications and AI-powered solutions.
 * 🚀 Currently building production-ready software using modern backend technologies and cloud infrastructure.
 * 🌱 Currently learning **System Design, AWS, Kubernetes, AI Agents, LLM Engineering, and High Performance Backend Systems.**
