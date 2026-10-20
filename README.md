@@ -99,6 +99,11 @@ Explore my Power BI dashboard projects for Spotify analytics, HR analytics, and 
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal-S-45&bg_color=050505&color=E6EDF3&line=00FF66&point=00FF66&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
 </p>
 
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+  <img width="96%" src="https://raw.githubusercontent.com/Prajwal-S-45/Prajwal-S-45/output/github-contribution-grid-snake.svg" alt="Animated contribution snake generated from Prajwal's GitHub activity"/>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prajwal-S-45&style=flat-square&color=00C853" alt="Profile views"/>
 </p>
