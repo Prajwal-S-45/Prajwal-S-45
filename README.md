@@ -6,7 +6,7 @@
   />
 </div>
 
-# Hi there 👋, I'm Prajwal Angadi
+<h2 align="center">Hi there 👋, I'm Prajwal Angadi</h2>
 
 <!-- TERMINAL PROFILE CARDS -->
 <table>
@@ -57,8 +57,8 @@
 
 <hr style="border: 1px solid #30363d; background-color: #30363d; height: 1px; margin: 20px 0;" />
 
-## 🧰 Technical Skills
-
+<!-- ================= Technical Skills ================= -->
+<h2 align="center">🧰 Technical Skills</h2>
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -86,7 +86,8 @@
 
 ---
 
-## 🚀 Featured Projects
+<!-- ================= Featured Projects ================= -->
+<h2 align="center">🚀 Featured Projects</h2>
 
 <table>
   <tr>
@@ -128,13 +129,15 @@
 
 ---
 
-## 🏅 Achievements
+<!-- ================= Achievements ================= -->
+<h2 align="center">🏅 Achievements</h2>
 
 - 🏆 **Top 6 Finalist** — Code Quest, REVA University
 - 💡 Participant — Adobe University Hackathon 2026
 - 🤖 Participant — Amazon ML Challenge 2026
 
-## 📜 Certifications & Learning
+<!-- ================= Certifications ================= -->
+<h2 align="center">📜 Certifications & Learning </h2>
 
 - React JS Development — Scaler
 - Google Code Vipassana — Seasons 13 & 14
@@ -145,7 +148,8 @@
 
 ---
 
-## 📈 GitHub Activity
+<!-- ================= Github Activity ================= -->
+<h2 align="center">📈 GitHub Activity</h2>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prajwal-S-45&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics"/>
@@ -167,7 +171,8 @@
 
 ---
 
-## 🤝 Let's Connect
+<!-- ================= Lets Connect ================= -->
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
   <a href="mailto:angadiprajwal88@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-00C853?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
