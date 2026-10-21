@@ -81,6 +81,25 @@
 
 ---
 
+# 🌟 What I'm Currently Working On
+
+<table>
+<tr>
+
+<td>
+
+### 🚀 Current Focus
+
+- 🤖 Building **AI-powered SaaS applications**
+- 💻 Mastering **Java**, Data Structures & Algorithms
+- 🌐 Creating modern **Full-Stack Applications**
+- ☁️ Exploring **AWS, GCP & Cloud AI**
+- 🧠 Learning **LLMs, RAG & Multi-Agent AI**
+- 🚀 Solving problems on **LeetCode**
+  
+</td>
+
+</table>
 <!-- ================= Featured Projects ================= -->
 <h2 align="center">🚀 Featured Projects</h2>
 
