@@ -6,7 +6,7 @@
   />
 </div>
 
-<h2 align="center">Hi there 👋, I'm Prajwal Angadi</h2>
+<h2 align="center">Hi there 👋, I'm Prajwal S Angadi</h2>
 
 <!-- TERMINAL PROFILE CARDS -->
 <table>
