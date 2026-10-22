@@ -95,7 +95,7 @@
 - 🌐 Creating modern **Full-Stack Applications**
 - ☁️ Exploring **AWS, GCP & Cloud AI**
 - 🧠 Learning **LLMs, RAG & Multi-Agent AI**
-- 🚀 Solving problems on **LeetCode**
+- 🚀 Solving problems on **LeetCode** daily
   
 </td>
 
