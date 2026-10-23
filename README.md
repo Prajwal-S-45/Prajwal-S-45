@@ -83,10 +83,9 @@
 
 # 🌟 What I'm Currently Working On
 
-<table>
+<table width="100%">
 <tr>
-
-<td>
+<td width="45%" valign="middle">
 
 ### 🚀 Current Focus
 
@@ -98,10 +97,9 @@
 - 🚀 Solving problems on **LeetCode** daily
 
 </td>
-
-<td>
+<td width="70%" align="center" valign="middle">
   
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="500" height="300" alt="Coding Animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" max-width="1000px" alt="Action Packed"/>
 
 </td>
 </tr>
