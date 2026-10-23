@@ -27,7 +27,7 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<img align="right" width="340" src="./assets/boy_tech_logos_orbit.gif" width="100%" height="auto" alt="Coding Animation"/>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" height="auto" alt="Coding Animation"/>
 
 🎓 **B.Tech in Computer Science (2023–2027)** • Reva University
 
@@ -94,12 +94,12 @@
 - 🌐 Creating modern **Full-Stack Applications**
 - ☁️ Exploring **AWS, GCP & Cloud AI**
 - 🧠 Learning **LLMs, RAG & Multi-Agent AI**
-- 🚀 Solving problems on **LeetCode** daily
+- 🚀 Solving problems on **LeetCode** 
 
 </td>
 <td width="70%" align="center" valign="middle">
   
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" max-width="1000px" alt="Action Packed"/>
+<img src="./assets/boy_tech_logos_orbit.gif" width="100%" max-width="400px" alt="Action Packed"/>
 
 </td>
 </tr>
@@ -179,8 +179,13 @@
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal-S-45&bg_color=0D1117&color=E6EDF3&line=00FF66&point=00FF66&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajwal-S-45&theme=github_dark"/>
+
 </p>
+<!-- <p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal-S-45&bg_color=0D1117&color=E6EDF3&line=00FF66&point=00FF66&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+</p> -->
 
 <h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
