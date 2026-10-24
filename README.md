@@ -8,7 +8,7 @@
 
 <h2 align="center">Hi there 👋, I'm Prajwal S Angadi</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Agent+%26+Full+Stack+Developer;Machine+Learning+Engineer;Building+Production-Ready+Applications;Learning+Something+New+Everyday;Open+Source+Learner" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Agent+%26+Full+Stack+Developer;Building+Production-Ready+Applications;Learning+Something+New+Everyday;Open+Source+Learner" />
 
 <!-- TERMINAL PROFILE CARDS -->
 <table>
