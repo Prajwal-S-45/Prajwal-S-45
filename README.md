@@ -62,25 +62,30 @@
 
 <!-- ================= Technical Skills ================= -->
 <h2 align="center">🧰 Technical Skills</h2>
-<table>
-  <tr>
-      <h3>💻 Languages</h3>
-      <img src="https://skillicons.dev/icons?i=java,python&theme=dark" alt="Java, Python"/>
-      <h3>🎨 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,html,css,ts,tailwind&theme=dark" alt="React, HTML, CSS, TypeScript, Tailwind CSS"/>
-      <h3>⚙️ Backend & APIs</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express"/>
-      <h3>🗄️ Databases</h3>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase&theme=dark" alt="MySQL, MongoDB, PostgreSQL, Supabase"/>
-      <h3>📊 Data & Business Intelligence</h3>
-      <p><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI"/> 
-      <h3>🤖 AI & Computer Vision</h3>
-      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark">
-      <h3>🛠️ Tools & Platforms</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,vercel&theme=dark" alt="Git, GitHub, Docker, Google Cloud, Vercel"/>
-  </tr>
-</table>
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="500px" height="100%" alt="Robot Arm Boogies Hard: Getting Jiggy with it!"/>
+ 
+<h3>💻 Languages</h3>
+<img src="https://skillicons.dev/icons?i=java,python&theme=dark" alt="Java, Python"/>
+
+<h3>🎨 Frontend</h3>
+<img src="https://skillicons.dev/icons?i=react,html,css,ts,tailwind&theme=dark" alt="React, HTML, CSS, TypeScript, Tailwind CSS"/>
+
+<h3>⚙️ Backend & APIs</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express"/>
+
+<h3>🗄️ Databases</h3>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase&theme=dark" alt="MySQL, MongoDB, PostgreSQL, Supabase"/>
+
+<h3>📊 Data & Business Intelligence</h3>
+<p><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI"/> 
+  
+<h3>🤖 AI & Computer Vision</h3>
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark">
+
+<h3>🛠️ Tools & Platforms</h3>
+<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,vercel&theme=dark" alt="Git, GitHub, Docker, Google Cloud, Vercel"/>
+  
 ---
 
 # 🌟 What I'm Currently Working On
