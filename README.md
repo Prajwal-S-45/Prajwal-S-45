@@ -195,7 +195,7 @@
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal-S-45&bg_color=0D1117&color=E6EDF3&line=00FF66&point=00FF66&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
 </p> -->
 
-<h3 align="center">🐍 Contribution Snake</h3>
+<h1 align="center">🐍 Contribution Snake</h1>
 <p align="center">
   <img width="98%" src="https://raw.githubusercontent.com/Prajwal-S-45/Prajwal-S-45/output/github-contribution-grid-snake.svg" alt="Animated contribution snake"/>
 </p>
