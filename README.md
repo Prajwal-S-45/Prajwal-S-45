@@ -154,6 +154,18 @@
 **[Power BI Dashboards](https://github.com/Prajwal-S-45/PowerBI_DashBoards)** — analytics dashboards including Spotify and other data-analysis projects.
 
 ---
+# 💡 Learning Profiles
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| GitHub | https://github.com/Prajwal-S-45 |
+| Credly | https://www.credly.com/users/prajwal-angadi.8ff31c64 |
+| LeetCode | https://leetcode.com/u/Prajwal_S_A/ |
+| Google CLoud Skills | https://www.skills.google/public_profiles/25f2a6bc-3672-4b37-8adc-eea554516a93 |
+
+---
 
 <!-- ================= Achievements ================= -->
 <h1 align="center">🏅 Achievements</h1>
