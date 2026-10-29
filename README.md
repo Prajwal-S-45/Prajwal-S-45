@@ -27,7 +27,7 @@
 <!-- ABOUT & MEDIA SECTION -->
 <!-- ================= ABOUT ME ================= -->
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h1 align="center">👨‍💻 About Me</h1>
 
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" height="auto" alt="Coding Animation"/>
 
@@ -61,7 +61,7 @@
 <hr style="border: 1px solid #30363d; background-color: #30363d; height: 1px; margin: 20px 0;" />
 
 <!-- ================= Technical Skills ================= -->
-<h2 align="center">🧰 Technical Skills</h2>
+<h1 align="center">🧰 Technical Skills</h1>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="500px" height="100%" alt="Robot Arm Boogies Hard: Getting Jiggy with it!"/>
  
@@ -88,7 +88,7 @@
   
 ---
 
-# 🌟 What I'm Currently Working On
+<h1 align="middle"> 🌟 What I'm Currently Working On </h1>
 
 <table width="100%">
 <tr>
@@ -113,7 +113,7 @@
 </tr>
 </table>
 <!-- ================= Featured Projects ================= -->
-<h2 align="center">🚀 Featured Projects</h2>
+<h1 align="center">🚀 Featured Projects</h1>
 
 <table>
   <tr>
@@ -156,14 +156,14 @@
 ---
 
 <!-- ================= Achievements ================= -->
-<h2 align="center">🏅 Achievements</h2>
+<h1 align="center">🏅 Achievements</h1>
 
 - 🏆 **Top 6 Finalist** — Code Quest, REVA University
 - 💡 Participant — Adobe University Hackathon 2026
 - 🤖 Participant — Amazon ML Challenge 2026
 
 <!-- ================= Certifications ================= -->
-<h2 align="center">📜 Certifications & Learning </h2>
+<h1 align="center">📜 Certifications & Learning </h1>
 
 - React JS Development — Scaler
 - Google Code Vipassana — Seasons 13 & 14
@@ -175,7 +175,7 @@
 ---
 
 <!-- ================= Github Activity ================= -->
-<h2 align="center">📈 GitHub Activity</h2>
+<h1 align="center">📈 GitHub Activity</h1>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prajwal-S-45&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics"/>
@@ -205,7 +205,7 @@
 <img src="assets/working.gif" alt="working-image">
 
 <!-- ================= Lets Connect ================= -->
-<h2 align="center">🤝 Let's Connect</h2>
+<h1 align="center">🤝 Let's Connect</h1>
 
 <p align="center">
   <a href="mailto:angadiprajwal88@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-00C853?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
