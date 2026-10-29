@@ -101,7 +101,8 @@
 - 🌐 Creating modern **Full-Stack Applications**
 - ☁️ Exploring **AWS, GCP & Cloud AI**
 - 🧠 Learning **LLMs, RAG & Multi-Agent AI**
-- 🚀 Solving problems on **LeetCode** 
+- 🚀 Solving problems on **LeetCode**
+- 🔰 Learning New technologies in Google Cloud Skill Platform
 
 </td>
 <td width="70%" align="center" valign="middle">
