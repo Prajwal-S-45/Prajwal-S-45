@@ -103,7 +103,7 @@
 - 🧠 Learning **LLMs, RAG & Multi-Agent AI**
 - 🚀 Solving problems on **LeetCode**
 - 🔰 Learning New technologies in Google Cloud Skill Platform
-- 🧪 Learning Automation Testing -- Selenium
+- 🧪 Learning Automation Testing **Selenium**
 
 </td>
 <td width="70%" align="center" valign="middle">
